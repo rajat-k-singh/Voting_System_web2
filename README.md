@@ -46,3 +46,7 @@ Voting_System_web2/
 ```bash
 git clone https://github.com/rajat-k-singh/Voting_System_web2.git
 cd Voting_System_web2
+
+
+---
+<img width="2876" height="1566" alt="image" src="https://github.com/user-attachments/assets/9d700598-658b-4f85-a2de-4e02df8b047f" />
