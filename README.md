@@ -19,11 +19,17 @@ Designed as a lightweight project for learning web app development with a focus 
 ## 📂 Project Structure
 Voting_System_web2/
 │── api/ # API endpoints (create, vote, results, etc.)
+
 │── config/ # Database configuration
+
 │── includes/ # Common functions / helpers
+
 │── pages/ # Frontend pages (dashboard, create poll, etc.)
+
 │── test_*.php # Test scripts (remove in production)
+
 │── database.sql # Database schema (to import in MySQL)
+
 │── README.md # Documentation
 
 
